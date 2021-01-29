@@ -1,0 +1,17 @@
+Amarillo #EAC926
+AZUL #03264C
+CELESTE #1259c3
+GRIS OSCURO #666
+GRIS CLARO #ebebeb
+verde #39b54a
+
+Tipografia: Roboto
+Cuerpos de txto: 12px
+Titurales(basado/ofertas): 24px
+Precios: 18px
+Descuentos: 16px
+Descripciones: 16px
+
+contenido de articulos: centrado
+tamaño de iconos 2em
+margen inferior de separacion de 10px
